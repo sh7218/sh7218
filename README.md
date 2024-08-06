@@ -1,6 +1,6 @@
 ## Hello there ~ 👋
 
-Dynamic Computer Science student at New York University. Graduated in Spring 2024 with a strong foundation in both theoretical and applied aspects of technology. Versatile in a spectrum of programming languages, I am driven by the challenge of solving complex problems and contributing to meaningful technological advancements.
+Graduated in Spring 2024 as a dynamic Computer Science student at New York University with a strong foundation in both theoretical and applied aspects of technology. Versatile in a spectrum of programming languages, I am driven by the challenge of solving complex problems and contributing to meaningful technological advancements. My experience includes initiating a LikeLion coding club at NYU and serving as a Girls Who Code college mentor, gaining valuable experience in leadership, team building, and collaboration. 
 
 ### Skills and Tools 👩‍💻
 
